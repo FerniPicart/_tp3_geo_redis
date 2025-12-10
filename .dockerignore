@@ -1,0 +1,12 @@
+# .dockerignore raiz
+node_modules
+frontend/node_modules
+frontend/.next
+backend/.venv
+backend/venv
+*.log
+.env
+.git
+.gitignore
+.DS_Store
+.vscode

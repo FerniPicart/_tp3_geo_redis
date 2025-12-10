@@ -1,0 +1,23 @@
+# .dockerignore backend
+__pycache__
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+pip-wheel-metadata/
+pip-log.txt
+htmlcov/
+dist/
+build/
+.eggs/
+*.egg-info/
+.env
+.env.*
+.git
+.gitignore
+*.log
+.DS_Store
+.vscode
