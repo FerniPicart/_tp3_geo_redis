@@ -44,3 +44,4 @@ export async function getNearby({ lat, lon, distance_km = 5, category = "" }) {
     throw e;
   }
 }
+

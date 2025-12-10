@@ -100,3 +100,4 @@ def get_nearby_places(
             content={"error": "Error retrieving nearby places"}
         )
 
+

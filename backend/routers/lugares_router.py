@@ -69,3 +69,4 @@ def obtener_distancia(data: DistanciaRequest):
         "lugar": data.nombre,
         "distancia_km": round(dist, 6)
     }
+

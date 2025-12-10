@@ -22,3 +22,4 @@ ENV NEXT_PUBLIC_API_BASE=http://localhost:8000
 
 # Ejecutar la app en modo producción
 CMD ["npm", "run", "start"]
+

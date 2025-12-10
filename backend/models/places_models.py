@@ -32,3 +32,4 @@ class PlaceNearbyOut(PlaceOut):
     distance_km: float = Field(..., description="Distance in kilometers")
 
     
+    

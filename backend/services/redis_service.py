@@ -130,3 +130,4 @@ class RedisService:
 # instancia singleton para importar
 redis_service = RedisService()
 
+
