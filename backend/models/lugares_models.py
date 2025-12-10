@@ -25,3 +25,4 @@ class DistanciaRequest(BaseModel):
     nombre: str
     lat_usuario: float
     lon_usuario: float
+

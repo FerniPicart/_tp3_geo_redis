@@ -151,7 +151,7 @@ export default function Nearby() {
               <div className="flex items-center space-x-2">
                 <select defaultValue="50" className="hidden" aria-hidden="true">
                   <option value="5">5 km</option>
-                  <option value="20">20 km</option>
+                  <option value="10">10 km</option>
                   <option value="50">50 km</option>
                 </select>
                 <button type="button" className="btn-secondary" onClick={() => generateRandomForSearch(50)}>

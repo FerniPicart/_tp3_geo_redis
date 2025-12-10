@@ -30,3 +30,5 @@ class PlaceOut(BaseModel):
 class PlaceNearbyOut(PlaceOut):
     """Schema for nearby place output with distance."""
     distance_km: float = Field(..., description="Distance in kilometers")
+
+    

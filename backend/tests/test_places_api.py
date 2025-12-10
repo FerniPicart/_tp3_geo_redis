@@ -129,3 +129,5 @@ def test_get_nearby_places_with_category_filter():
     # All results should have the specified category
     for place in data:
         assert place["category"] == "restaurant"
+
+
